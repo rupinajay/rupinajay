@@ -1,5 +1,5 @@
 # About Me:
-Hey! I’m Rupin Ajay from India. I’m all about data and AI, and I love diving into tech projects to uncover new insights. When I’m not coding, you’ll find me playing football, working out, or brainstorming my next big idea.<br><br>Right now, I’m working on Stat IQ. An AI based solution that automated the entire business intelligence workflow. From Data cleaning to Data Visualizations, this project will do it entirely. <br><br>I’m always up for chatting about tech and would love to collaborate if you have any ideas. Let’s connect! You can find me on LinkedIn and GitHub. Feel free to drop me a message!
+Hey! I’m Rupin Ajay from India. I’m all about data and AI, and I love diving into tech projects to uncover new insights. When I’m not coding, you’ll find me playing football, working out, or brainstorming my next big idea.<br><br>Right now, I’m working on Stat IQ, an AI-driven solution designed to revolutionize the business intelligence workflow. From data cleaning to creating insightful visualizations, this project automates the entire process, making data analysis seamless and efficient. <br><br>I’m always up for chatting about tech and would love to collaborate if you have any ideas. Let’s connect! You can find me on LinkedIn and GitHub. Feel free to drop me a message!
 
 
 ## Socials:
