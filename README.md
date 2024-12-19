@@ -15,4 +15,4 @@ Hey! I’m Rupin Ajay from India. I’m all about data and AI, and I love diving
 ![](https://github-contributor-stats.vercel.app/api?username=rupinajay&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![](https://visitcount.itsvg.in/api?id=rupinajay&label=Profile%20Views&color=8&icon=2&pretty=false)](https://visitcount.itsvg.in)
+[![Rupin Ajay profile views](https://u8views.com/api/v1/github/profiles/116371359/views/day-week-month-total-count.svg)](https://u8views.com/github/rupinajay)
