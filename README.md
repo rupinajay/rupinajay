@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rupin Ajay </h1>
 <p align="center">
-  <em>AI Engineer • Software Engineer •</em><br>
+  <em>AI Engineer • Software Engineer</em><br>
 </p>
 
 ---
