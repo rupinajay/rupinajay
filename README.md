@@ -11,7 +11,7 @@
 -  Building ReLeaf – Redefining sustainability [I2I Startup Challenge 2025]
 -  Most recently @ **Glencore** & **Zyngate**, where I built production-grade data automation pipelines as data engineer and built an entire Linkedin Autoapplier that applies for jobs automatically
 -  Currently freelancing.
--  My portfolio website:  ![rupinajay](https://rupinajay.vercel.app)
+-  My portfolio website:  ![https://rupinajay.vercel.app](https://rupinajay.vercel.app/))
 
 ---
 
