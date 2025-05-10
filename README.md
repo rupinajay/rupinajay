@@ -1,42 +1,37 @@
-<h1 align="center">Hi, I'm Rupin Ajay 🚀</h1>
+<h1 align="center">Hi, I'm Rupin Ajay </h1>
 <p align="center">
-  <em>AI Engineer • Data Problem Solver • Business Intelligence Automator</em><br>
-  <b>"Crafting AI systems that speak data fluently."</b>
+  <em>AI Engineer • Software Engineer •</em><br>
 </p>
 
 ---
 
-### 🧠 About Me
+###  About Me
 
-- 🇮🇳 Based in India | CSE Undergrad @ Shiv Nadar University
-- 🔍 Obsessed with Data Intelligence, Automation & Generative AI
-- 🛠️ Building **StatIQ** – a no-code, LLM-powered Business Intelligence Automation Suite
-- 🧑‍💻 Most recently @ **Glencore** & **Zyngate**, where I built production-grade data automation pipelines
-- 🧠 Currently freelancing on AI tools for legal automation, natural language SQL, and more
-- 🧪 Strong believer in fast prototyping, hybrid AI systems, and LLM self-debugging logic
+-  Based in India | CSE Undergrad @ Shiv Nadar University '26 Batch
+-  Building ReLeaf – Redefining sustainability [I2I Startup Challenge 2025]
+-  Most recently @ **Glencore** & **Zyngate**, where I built production-grade data automation pipelines as data engineer and built an entire Linkedin Autoapplier that applies for jobs automatically
+-  Currently freelancing.
+-  My portfolio website ![rupinajay](rupinajay.vercel.app)
 
 ---
 
-### 📌 Current Projects
+###  Current Projects
 
-🚧 **StatIQ**  
+ **StatIQ**  
 No-code BI tool powered by Groq + LLMs to fully automate data ingestion, EDA, dashboarding, and business insight generation.  
-Tech: Python · LangChain · Plotly · HuggingFace · CrewAI
 
-📚 **Text-to-SQL Engine**  
+ **Text-to-SQL Engine**  
 Natural language to SQL with schema awareness, auto-correction, and contextual insight generation using LLMs.  
-Tech: FastAPI · OpenAI · Postgres
 
-🔍 **AI Legal Assistant**  
+ **AI Legal Assistant**  
 Autonomous legal chatbot + RAG-based document analysis + timeline extractor.  
-Tech: RAG · Pinecone · Context Graphs · LangChain · Streamlit
 
-🌱 **Sustain ESG Analytics**  
+ **Sustain ESG Analytics**  
 Live ESG dashboards from GDELT news + sustainability reports via LLM-enhanced retrieval.
 
 ---
 
-### 🧰 Tech Toolbox
+###  Tech Toolbox
 
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
@@ -51,17 +46,17 @@ Live ESG dashboards from GDELT news + sustainability reports via LLM-enhanced re
 
 ---
 
-### 🏆 Highlights & Achievements
+###  Highlights & Achievements
 
 - 🥇 **Top 10** – Google Hack4Change Hackathon, 2024
 - 🥇 **Top 10** – IndustriAI Hackathon @ IIT Madras, 2025
 - 🎖️ **Top 12** – OpenHack @ IISc Bangalore, 2024
-- 🚀 Startup Grant Winner – I2I Challenge @ IIT Madras, 2025
-- 🔥 **AI/ML Core Member** – SNU Coding Club (Dec 2024–Present)
+- 🚀 Startup Funding - Ongoing - I2I Challenge @ IIT Madras, 2025
+- 🔥 **AI/ML Senior Core Member** – SNU Coding Club (Dec 2024–Present)
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rupinajay&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=60" height="180"/>
@@ -80,13 +75,4 @@ Live ESG dashboards from GDELT news + sustainability reports via LLM-enhanced re
 <a href="https://github.com/rupinajay"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white" /></a>
 <a href="https://instagram.com/rupin.ajay"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" /></a>
 <a href="mailto:rupinajay@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-
----
-
-### ⚡ Fun Fact
-
-I once built a job applier bot that auto-filled and submitted 85% of LinkedIn job forms with just 200 API calls 🤖  
-It worked so well, I *almost* applied to my own job posting.
-
----
 
